@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect me at:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vipul patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipul patil" height="30" width="40" /></a>
-<a href="https://instagram.com/vipulsp_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vipulsp_21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vipul patil" target="blank"><img align="center" src="https://github.com/vipulSP2108/vipulSP2108/blob/main/1679222238970.jpg" alt="vipul patil" height="30" width="110" /></a>
+<a href="https://instagram.com/vipulsp_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vipulsp_21" height="30" width="120" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
