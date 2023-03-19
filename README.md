@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vipul Sunil Patil</h1>
 <h3 align="center">A Passionate Youth from India</h3>
 
-<img align=“right” alt=“Coding” width=“800” src=“10_coding_dribbble.gif”>
+<img align=“right” alt=“coding” width=“800” src=“[10_coding_dribbble.gif](https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif)”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulsp2108&label=Profile%20views&color=0e75b6&style=flat" alt="vipulsp2108" /> </p>
 
