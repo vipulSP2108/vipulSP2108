@@ -19,7 +19,7 @@
 <p align="left">
 <!-- <a href="https://linkedin.com/in/vipul patil" target="blank"><img align="center" src="https://github.com/vipulSP2108/vipulSP2108/blob/main/1679222178621.jpg" alt="vipulsp_21" height="30" width="120" /></a>
 <a href="https://github.com/vipulSP2108/vipulSP2108/blob/main/1679222178621.jpg" target="blank"><img align="center" src="https://github.com/vipulSP2108/vipulSP2108/blob/main/1679222178627.jpg" alt="vipul patil" height="30" width="120" /></a>
-<!-- <a href="https://linkedin.com/in/vipul patil" target="blank"><img align="center" src="https://github.com/vipulSP2108/vipulSP2108/blob/main/1679222238970.jpg" alt="vipul patil" height="30" width="110" /></a> -->
+<a href="https://linkedin.com/in/vipul patil" target="blank"><img align="center" src="https://github.com/vipulSP2108/vipulSP2108/blob/main/1679222238970.jpg" alt="vipul patil" height="30" width="110" /></a> -->
 </p>
 
 
