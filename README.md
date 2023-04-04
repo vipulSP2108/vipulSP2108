@@ -4,5 +4,3 @@
 > ⚡ Fun fact **If you want to enjoy, then you are in the right place.**
 
 *STAY HAPPY, NOT DEPRESSED!*
-
-
